@@ -1,6 +1,8 @@
 # Assignment 1 : Training a feedforward neural network
 
-REPORT_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/assignment_1/reports/DA6401-A1--VmlldzoxMTcwNzE4Ng
+WANDB_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/assignment_1/reports/DA6401-A1--VmlldzoxMTcwNzE4Ng
+
+GITHUB_REPO:https://github.com/duenchombo/DA6401_ASSIGNMENT_1
 
 **NOTE :** The program is written in a modular manner, with each logically separate unit of code written as functions.  
 
@@ -91,3 +93,5 @@ REPORT_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/
 
 
 REPORT_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/assignment_1/reports/DA6401-A1--VmlldzoxMTcwNzE4Ng
+
+GITHUB_REPO:https://github.com/duenchombo/DA6401_ASSIGNMENT_1
