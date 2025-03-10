@@ -1,5 +1,7 @@
 # Assignment 1 : Training a feedforward neural network
 
+REPORT_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/assignment_1/reports/DA6401-A1--VmlldzoxMTcwNzE4Ng
+
 **NOTE :** The program is written in a modular manner, with each logically separate unit of code written as functions.  
 
 
@@ -86,3 +88,6 @@
   ```
   The above dictionary can be changed according to needs and used to obtain a different sweep.
 - **NOTE :** Always run the cells in order, otherwise incorrect results may be obtained
+
+
+REPORT_LINK: https://wandb.ai/duenchombo1-indian-institute-of-technology-madras/assignment_1/reports/DA6401-A1--VmlldzoxMTcwNzE4Ng
